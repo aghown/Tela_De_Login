@@ -11,5 +11,5 @@
 
 
 <p align="center">
-  Heey! Esta é a tela de login criada neste repositório. <br>É uma tela simples com o <strong> tema dark</strong>! <br> Comentarios sobre como<strong> melhorar</strong> a aparencia, deixar o codigo mais organizado, etc...Serão extremamente <strong>Bem Vindos</strong>.<br />
+  Heey! Esta é a tela de login criada neste repositório. <br>É uma tela simples com o <strong> tema dark</strong>! <br> Comentários sobre como<strong> melhorar</strong> a aparência, deixar o código mais organizado, etc...Serão extremamente <strong>Bem-Vindos</strong>.<br />
 </p>
